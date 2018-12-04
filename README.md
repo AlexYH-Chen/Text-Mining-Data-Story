@@ -12,4 +12,4 @@ The conclusion from my analysis is
 Since the project was built in R. The latest version of R is needed. Installation of R packages tidyverse, tidytext, DT, scales,  wordcloud2, gridExtra, ngram, ggplot2, igraph, ggraph, grid is also needed.
 
 ### Author
-Yen-Hsiang Chen
+Yen-Hsiang Chen (Alexander Chen)
