@@ -9,7 +9,7 @@ Here, I used "Text_Processing.Rmd" in doc folder to process HappyDB and manually
 - Friends, family, life achievement are the most common source of happiness across all groups.
 
 ### Prerequisites
-Since the project was built in R. The latest version of R is needed. Installation of R packages tidyverse, tidytext, DT, scales,  wordcloud2, gridExtra, ngram, ggplot2, igraph, ggraph, grid is also needed.
+Since the project was built in R. The latest version of R is needed. Installation of R packages such as tidyverse, tidytext, DT, scales,  wordcloud2, gridExtra, ngram, ggplot2, igraph, ggraph, grid is also needed.
 
 ### Author
 Alexander Chen
